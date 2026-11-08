@@ -1,0 +1,712 @@
+subject,k_per_class,repeat,method,accuracy
+1,0,0,Transfer from 8 others + re-centering (balanced),0.6493055555555556
+1,2,0,Subject only (standard calibration),0.6527777777777778
+1,2,0,Subject only + re-centering,0.6597222222222222
+1,2,0,Transfer from 8 others + re-centering (balanced),0.7048611111111112
+1,2,1,Subject only (standard calibration),0.5416666666666666
+1,2,1,Subject only + re-centering,0.5381944444444444
+1,2,1,Transfer from 8 others + re-centering (balanced),0.7048611111111112
+1,2,2,Subject only (standard calibration),0.4826388888888889
+1,2,2,Subject only + re-centering,0.5173611111111112
+1,2,2,Transfer from 8 others + re-centering (balanced),0.6319444444444444
+1,2,3,Subject only (standard calibration),0.5347222222222222
+1,2,3,Subject only + re-centering,0.5729166666666666
+1,2,3,Transfer from 8 others + re-centering (balanced),0.6979166666666666
+1,2,4,Subject only (standard calibration),0.5868055555555556
+1,2,4,Subject only + re-centering,0.5833333333333334
+1,2,4,Transfer from 8 others + re-centering (balanced),0.7048611111111112
+1,5,0,Subject only (standard calibration),0.6736111111111112
+1,5,0,Subject only + re-centering,0.6666666666666666
+1,5,0,Transfer from 8 others + re-centering (balanced),0.7048611111111112
+1,5,1,Subject only (standard calibration),0.7118055555555556
+1,5,1,Subject only + re-centering,0.7152777777777778
+1,5,1,Transfer from 8 others + re-centering (balanced),0.7256944444444444
+1,5,2,Subject only (standard calibration),0.6319444444444444
+1,5,2,Subject only + re-centering,0.65625
+1,5,2,Transfer from 8 others + re-centering (balanced),0.6840277777777778
+1,5,3,Subject only (standard calibration),0.6388888888888888
+1,5,3,Subject only + re-centering,0.6493055555555556
+1,5,3,Transfer from 8 others + re-centering (balanced),0.6666666666666666
+1,5,4,Subject only (standard calibration),0.6736111111111112
+1,5,4,Subject only + re-centering,0.6909722222222222
+1,5,4,Transfer from 8 others + re-centering (balanced),0.6979166666666666
+1,10,0,Subject only (standard calibration),0.7395833333333334
+1,10,0,Subject only + re-centering,0.7395833333333334
+1,10,0,Transfer from 8 others + re-centering (balanced),0.7013888888888888
+1,10,1,Subject only (standard calibration),0.7291666666666666
+1,10,1,Subject only + re-centering,0.7638888888888888
+1,10,1,Transfer from 8 others + re-centering (balanced),0.7013888888888888
+1,10,2,Subject only (standard calibration),0.7118055555555556
+1,10,2,Subject only + re-centering,0.71875
+1,10,2,Transfer from 8 others + re-centering (balanced),0.7013888888888888
+1,10,3,Subject only (standard calibration),0.6944444444444444
+1,10,3,Subject only + re-centering,0.7048611111111112
+1,10,3,Transfer from 8 others + re-centering (balanced),0.6909722222222222
+1,10,4,Subject only (standard calibration),0.7430555555555556
+1,10,4,Subject only + re-centering,0.7361111111111112
+1,10,4,Transfer from 8 others + re-centering (balanced),0.7222222222222222
+1,20,0,Subject only (standard calibration),0.7777777777777778
+1,20,0,Subject only + re-centering,0.7881944444444444
+1,20,0,Transfer from 8 others + re-centering (balanced),0.7638888888888888
+1,20,1,Subject only (standard calibration),0.7881944444444444
+1,20,1,Subject only + re-centering,0.7916666666666666
+1,20,1,Transfer from 8 others + re-centering (balanced),0.7708333333333334
+1,20,2,Subject only (standard calibration),0.8298611111111112
+1,20,2,Subject only + re-centering,0.8298611111111112
+1,20,2,Transfer from 8 others + re-centering (balanced),0.7638888888888888
+1,20,3,Subject only (standard calibration),0.7743055555555556
+1,20,3,Subject only + re-centering,0.7847222222222222
+1,20,3,Transfer from 8 others + re-centering (balanced),0.75
+1,20,4,Subject only (standard calibration),0.7534722222222222
+1,20,4,Subject only + re-centering,0.7673611111111112
+1,20,4,Transfer from 8 others + re-centering (balanced),0.7534722222222222
+1,36,0,Subject only (standard calibration),0.8229166666666666
+1,36,0,Subject only + re-centering,0.8402777777777778
+1,36,0,Transfer from 8 others + re-centering (balanced),0.7569444444444444
+1,36,1,Subject only (standard calibration),0.8333333333333334
+1,36,1,Subject only + re-centering,0.8402777777777778
+1,36,1,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+1,36,2,Subject only (standard calibration),0.84375
+1,36,2,Subject only + re-centering,0.8368055555555556
+1,36,2,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+1,36,3,Subject only (standard calibration),0.7881944444444444
+1,36,3,Subject only + re-centering,0.7951388888888888
+1,36,3,Transfer from 8 others + re-centering (balanced),0.7638888888888888
+1,36,4,Subject only (standard calibration),0.7951388888888888
+1,36,4,Subject only + re-centering,0.7881944444444444
+1,36,4,Transfer from 8 others + re-centering (balanced),0.7465277777777778
+1,72,0,Subject only (standard calibration),0.8333333333333334
+1,72,0,Subject only + re-centering,0.8402777777777778
+1,72,0,Transfer from 8 others + re-centering (balanced),0.7743055555555556
+2,0,0,Transfer from 8 others + re-centering (balanced),0.3298611111111111
+2,2,0,Subject only (standard calibration),0.2986111111111111
+2,2,0,Subject only + re-centering,0.3194444444444444
+2,2,0,Transfer from 8 others + re-centering (balanced),0.3229166666666667
+2,2,1,Subject only (standard calibration),0.2326388888888889
+2,2,1,Subject only + re-centering,0.2708333333333333
+2,2,1,Transfer from 8 others + re-centering (balanced),0.3090277777777778
+2,2,2,Subject only (standard calibration),0.34375
+2,2,2,Subject only + re-centering,0.3472222222222222
+2,2,2,Transfer from 8 others + re-centering (balanced),0.3402777777777778
+2,2,3,Subject only (standard calibration),0.3194444444444444
+2,2,3,Subject only + re-centering,0.3576388888888889
+2,2,3,Transfer from 8 others + re-centering (balanced),0.3715277777777778
+2,2,4,Subject only (standard calibration),0.3472222222222222
+2,2,4,Subject only + re-centering,0.3611111111111111
+2,2,4,Transfer from 8 others + re-centering (balanced),0.3472222222222222
+2,5,0,Subject only (standard calibration),0.3854166666666667
+2,5,0,Subject only + re-centering,0.3645833333333333
+2,5,0,Transfer from 8 others + re-centering (balanced),0.3506944444444444
+2,5,1,Subject only (standard calibration),0.3229166666666667
+2,5,1,Subject only + re-centering,0.3263888888888889
+2,5,1,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+2,5,2,Subject only (standard calibration),0.3888888888888889
+2,5,2,Subject only + re-centering,0.3819444444444444
+2,5,2,Transfer from 8 others + re-centering (balanced),0.375
+2,5,3,Subject only (standard calibration),0.3298611111111111
+2,5,3,Subject only + re-centering,0.3611111111111111
+2,5,3,Transfer from 8 others + re-centering (balanced),0.3506944444444444
+2,5,4,Subject only (standard calibration),0.3576388888888889
+2,5,4,Subject only + re-centering,0.3333333333333333
+2,5,4,Transfer from 8 others + re-centering (balanced),0.3819444444444444
+2,10,0,Subject only (standard calibration),0.3958333333333333
+2,10,0,Subject only + re-centering,0.3854166666666667
+2,10,0,Transfer from 8 others + re-centering (balanced),0.3506944444444444
+2,10,1,Subject only (standard calibration),0.3888888888888889
+2,10,1,Subject only + re-centering,0.4513888888888889
+2,10,1,Transfer from 8 others + re-centering (balanced),0.4097222222222222
+2,10,2,Subject only (standard calibration),0.3819444444444444
+2,10,2,Subject only + re-centering,0.3784722222222222
+2,10,2,Transfer from 8 others + re-centering (balanced),0.3958333333333333
+2,10,3,Subject only (standard calibration),0.2986111111111111
+2,10,3,Subject only + re-centering,0.3888888888888889
+2,10,3,Transfer from 8 others + re-centering (balanced),0.3576388888888889
+2,10,4,Subject only (standard calibration),0.3645833333333333
+2,10,4,Subject only + re-centering,0.3819444444444444
+2,10,4,Transfer from 8 others + re-centering (balanced),0.3715277777777778
+2,20,0,Subject only (standard calibration),0.3923611111111111
+2,20,0,Subject only + re-centering,0.4236111111111111
+2,20,0,Transfer from 8 others + re-centering (balanced),0.4097222222222222
+2,20,1,Subject only (standard calibration),0.40625
+2,20,1,Subject only + re-centering,0.4305555555555556
+2,20,1,Transfer from 8 others + re-centering (balanced),0.375
+2,20,2,Subject only (standard calibration),0.3993055555555556
+2,20,2,Subject only + re-centering,0.4930555555555556
+2,20,2,Transfer from 8 others + re-centering (balanced),0.4166666666666667
+2,20,3,Subject only (standard calibration),0.3819444444444444
+2,20,3,Subject only + re-centering,0.4166666666666667
+2,20,3,Transfer from 8 others + re-centering (balanced),0.3958333333333333
+2,20,4,Subject only (standard calibration),0.4097222222222222
+2,20,4,Subject only + re-centering,0.4652777777777778
+2,20,4,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+2,36,0,Subject only (standard calibration),0.4791666666666667
+2,36,0,Subject only + re-centering,0.5208333333333334
+2,36,0,Transfer from 8 others + re-centering (balanced),0.4583333333333333
+2,36,1,Subject only (standard calibration),0.4375
+2,36,1,Subject only + re-centering,0.4513888888888889
+2,36,1,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+2,36,2,Subject only (standard calibration),0.46875
+2,36,2,Subject only + re-centering,0.4479166666666667
+2,36,2,Transfer from 8 others + re-centering (balanced),0.3819444444444444
+2,36,3,Subject only (standard calibration),0.375
+2,36,3,Subject only + re-centering,0.40625
+2,36,3,Transfer from 8 others + re-centering (balanced),0.4097222222222222
+2,36,4,Subject only (standard calibration),0.4201388888888889
+2,36,4,Subject only + re-centering,0.4513888888888889
+2,36,4,Transfer from 8 others + re-centering (balanced),0.3854166666666667
+2,72,0,Subject only (standard calibration),0.4826388888888889
+2,72,0,Subject only + re-centering,0.4965277777777778
+2,72,0,Transfer from 8 others + re-centering (balanced),0.4305555555555556
+3,0,0,Transfer from 8 others + re-centering (balanced),0.7916666666666666
+3,2,0,Subject only (standard calibration),0.6006944444444444
+3,2,0,Subject only + re-centering,0.6354166666666666
+3,2,0,Transfer from 8 others + re-centering (balanced),0.8333333333333334
+3,2,1,Subject only (standard calibration),0.59375
+3,2,1,Subject only + re-centering,0.5972222222222222
+3,2,1,Transfer from 8 others + re-centering (balanced),0.8125
+3,2,2,Subject only (standard calibration),0.6527777777777778
+3,2,2,Subject only + re-centering,0.6666666666666666
+3,2,2,Transfer from 8 others + re-centering (balanced),0.8020833333333334
+3,2,3,Subject only (standard calibration),0.5972222222222222
+3,2,3,Subject only + re-centering,0.6458333333333334
+3,2,3,Transfer from 8 others + re-centering (balanced),0.7881944444444444
+3,2,4,Subject only (standard calibration),0.6944444444444444
+3,2,4,Subject only + re-centering,0.6979166666666666
+3,2,4,Transfer from 8 others + re-centering (balanced),0.8159722222222222
+3,5,0,Subject only (standard calibration),0.6458333333333334
+3,5,0,Subject only + re-centering,0.7361111111111112
+3,5,0,Transfer from 8 others + re-centering (balanced),0.8368055555555556
+3,5,1,Subject only (standard calibration),0.6840277777777778
+3,5,1,Subject only + re-centering,0.7222222222222222
+3,5,1,Transfer from 8 others + re-centering (balanced),0.8194444444444444
+3,5,2,Subject only (standard calibration),0.7083333333333334
+3,5,2,Subject only + re-centering,0.7604166666666666
+3,5,2,Transfer from 8 others + re-centering (balanced),0.8263888888888888
+3,5,3,Subject only (standard calibration),0.6840277777777778
+3,5,3,Subject only + re-centering,0.7326388888888888
+3,5,3,Transfer from 8 others + re-centering (balanced),0.8368055555555556
+3,5,4,Subject only (standard calibration),0.7569444444444444
+3,5,4,Subject only + re-centering,0.7986111111111112
+3,5,4,Transfer from 8 others + re-centering (balanced),0.8298611111111112
+3,10,0,Subject only (standard calibration),0.7395833333333334
+3,10,0,Subject only + re-centering,0.7708333333333334
+3,10,0,Transfer from 8 others + re-centering (balanced),0.8402777777777778
+3,10,1,Subject only (standard calibration),0.75
+3,10,1,Subject only + re-centering,0.7916666666666666
+3,10,1,Transfer from 8 others + re-centering (balanced),0.8368055555555556
+3,10,2,Subject only (standard calibration),0.7118055555555556
+3,10,2,Subject only + re-centering,0.7604166666666666
+3,10,2,Transfer from 8 others + re-centering (balanced),0.8125
+3,10,3,Subject only (standard calibration),0.7604166666666666
+3,10,3,Subject only + re-centering,0.7986111111111112
+3,10,3,Transfer from 8 others + re-centering (balanced),0.84375
+3,10,4,Subject only (standard calibration),0.7361111111111112
+3,10,4,Subject only + re-centering,0.8090277777777778
+3,10,4,Transfer from 8 others + re-centering (balanced),0.8715277777777778
+3,20,0,Subject only (standard calibration),0.8229166666666666
+3,20,0,Subject only + re-centering,0.8576388888888888
+3,20,0,Transfer from 8 others + re-centering (balanced),0.8576388888888888
+3,20,1,Subject only (standard calibration),0.7951388888888888
+3,20,1,Subject only + re-centering,0.8576388888888888
+3,20,1,Transfer from 8 others + re-centering (balanced),0.875
+3,20,2,Subject only (standard calibration),0.8055555555555556
+3,20,2,Subject only + re-centering,0.8229166666666666
+3,20,2,Transfer from 8 others + re-centering (balanced),0.8576388888888888
+3,20,3,Subject only (standard calibration),0.8263888888888888
+3,20,3,Subject only + re-centering,0.8611111111111112
+3,20,3,Transfer from 8 others + re-centering (balanced),0.8611111111111112
+3,20,4,Subject only (standard calibration),0.7881944444444444
+3,20,4,Subject only + re-centering,0.8125
+3,20,4,Transfer from 8 others + re-centering (balanced),0.8541666666666666
+3,36,0,Subject only (standard calibration),0.8541666666666666
+3,36,0,Subject only + re-centering,0.8611111111111112
+3,36,0,Transfer from 8 others + re-centering (balanced),0.8715277777777778
+3,36,1,Subject only (standard calibration),0.8263888888888888
+3,36,1,Subject only + re-centering,0.8645833333333334
+3,36,1,Transfer from 8 others + re-centering (balanced),0.8576388888888888
+3,36,2,Subject only (standard calibration),0.8263888888888888
+3,36,2,Subject only + re-centering,0.8611111111111112
+3,36,2,Transfer from 8 others + re-centering (balanced),0.8923611111111112
+3,36,3,Subject only (standard calibration),0.8194444444444444
+3,36,3,Subject only + re-centering,0.8368055555555556
+3,36,3,Transfer from 8 others + re-centering (balanced),0.875
+3,36,4,Subject only (standard calibration),0.8020833333333334
+3,36,4,Subject only + re-centering,0.8576388888888888
+3,36,4,Transfer from 8 others + re-centering (balanced),0.8576388888888888
+3,72,0,Subject only (standard calibration),0.8645833333333334
+3,72,0,Subject only + re-centering,0.8611111111111112
+3,72,0,Transfer from 8 others + re-centering (balanced),0.875
+4,0,0,Transfer from 8 others + re-centering (balanced),0.4513888888888889
+4,2,0,Subject only (standard calibration),0.3645833333333333
+4,2,0,Subject only + re-centering,0.3680555555555556
+4,2,0,Transfer from 8 others + re-centering (balanced),0.4409722222222222
+4,2,1,Subject only (standard calibration),0.3993055555555556
+4,2,1,Subject only + re-centering,0.4097222222222222
+4,2,1,Transfer from 8 others + re-centering (balanced),0.4513888888888889
+4,2,2,Subject only (standard calibration),0.3784722222222222
+4,2,2,Subject only + re-centering,0.3680555555555556
+4,2,2,Transfer from 8 others + re-centering (balanced),0.4444444444444444
+4,2,3,Subject only (standard calibration),0.4756944444444444
+4,2,3,Subject only + re-centering,0.4513888888888889
+4,2,3,Transfer from 8 others + re-centering (balanced),0.4583333333333333
+4,2,4,Subject only (standard calibration),0.4513888888888889
+4,2,4,Subject only + re-centering,0.4201388888888889
+4,2,4,Transfer from 8 others + re-centering (balanced),0.46875
+4,5,0,Subject only (standard calibration),0.4756944444444444
+4,5,0,Subject only + re-centering,0.4548611111111111
+4,5,0,Transfer from 8 others + re-centering (balanced),0.4652777777777778
+4,5,1,Subject only (standard calibration),0.4722222222222222
+4,5,1,Subject only + re-centering,0.46875
+4,5,1,Transfer from 8 others + re-centering (balanced),0.4513888888888889
+4,5,2,Subject only (standard calibration),0.4097222222222222
+4,5,2,Subject only + re-centering,0.3923611111111111
+4,5,2,Transfer from 8 others + re-centering (balanced),0.4652777777777778
+4,5,3,Subject only (standard calibration),0.4652777777777778
+4,5,3,Subject only + re-centering,0.4652777777777778
+4,5,3,Transfer from 8 others + re-centering (balanced),0.4375
+4,5,4,Subject only (standard calibration),0.4201388888888889
+4,5,4,Subject only + re-centering,0.4513888888888889
+4,5,4,Transfer from 8 others + re-centering (balanced),0.4618055555555556
+4,10,0,Subject only (standard calibration),0.6111111111111112
+4,10,0,Subject only + re-centering,0.6006944444444444
+4,10,0,Transfer from 8 others + re-centering (balanced),0.5138888888888888
+4,10,1,Subject only (standard calibration),0.5520833333333334
+4,10,1,Subject only + re-centering,0.5451388888888888
+4,10,1,Transfer from 8 others + re-centering (balanced),0.4895833333333333
+4,10,2,Subject only (standard calibration),0.4791666666666667
+4,10,2,Subject only + re-centering,0.4652777777777778
+4,10,2,Transfer from 8 others + re-centering (balanced),0.4930555555555556
+4,10,3,Subject only (standard calibration),0.5659722222222222
+4,10,3,Subject only + re-centering,0.5451388888888888
+4,10,3,Transfer from 8 others + re-centering (balanced),0.5
+4,10,4,Subject only (standard calibration),0.4375
+4,10,4,Subject only + re-centering,0.4340277777777778
+4,10,4,Transfer from 8 others + re-centering (balanced),0.5069444444444444
+4,20,0,Subject only (standard calibration),0.4895833333333333
+4,20,0,Subject only + re-centering,0.5104166666666666
+4,20,0,Transfer from 8 others + re-centering (balanced),0.5173611111111112
+4,20,1,Subject only (standard calibration),0.4965277777777778
+4,20,1,Subject only + re-centering,0.5555555555555556
+4,20,1,Transfer from 8 others + re-centering (balanced),0.4930555555555556
+4,20,2,Subject only (standard calibration),0.5729166666666666
+4,20,2,Subject only + re-centering,0.6041666666666666
+4,20,2,Transfer from 8 others + re-centering (balanced),0.5208333333333334
+4,20,3,Subject only (standard calibration),0.6423611111111112
+4,20,3,Subject only + re-centering,0.625
+4,20,3,Transfer from 8 others + re-centering (balanced),0.5451388888888888
+4,20,4,Subject only (standard calibration),0.5555555555555556
+4,20,4,Subject only + re-centering,0.65625
+4,20,4,Transfer from 8 others + re-centering (balanced),0.5069444444444444
+4,36,0,Subject only (standard calibration),0.5868055555555556
+4,36,0,Subject only + re-centering,0.5833333333333334
+4,36,0,Transfer from 8 others + re-centering (balanced),0.5451388888888888
+4,36,1,Subject only (standard calibration),0.5798611111111112
+4,36,1,Subject only + re-centering,0.6180555555555556
+4,36,1,Transfer from 8 others + re-centering (balanced),0.5034722222222222
+4,36,2,Subject only (standard calibration),0.5555555555555556
+4,36,2,Subject only + re-centering,0.6284722222222222
+4,36,2,Transfer from 8 others + re-centering (balanced),0.5347222222222222
+4,36,3,Subject only (standard calibration),0.5555555555555556
+4,36,3,Subject only + re-centering,0.6423611111111112
+4,36,3,Transfer from 8 others + re-centering (balanced),0.5277777777777778
+4,36,4,Subject only (standard calibration),0.6215277777777778
+4,36,4,Subject only + re-centering,0.6111111111111112
+4,36,4,Transfer from 8 others + re-centering (balanced),0.5625
+4,72,0,Subject only (standard calibration),0.5902777777777778
+4,72,0,Subject only + re-centering,0.6319444444444444
+4,72,0,Transfer from 8 others + re-centering (balanced),0.5555555555555556
+5,0,0,Transfer from 8 others + re-centering (balanced),0.3576388888888889
+5,2,0,Subject only (standard calibration),0.3125
+5,2,0,Subject only + re-centering,0.3298611111111111
+5,2,0,Transfer from 8 others + re-centering (balanced),0.3680555555555556
+5,2,1,Subject only (standard calibration),0.22916666666666666
+5,2,1,Subject only + re-centering,0.23958333333333334
+5,2,1,Transfer from 8 others + re-centering (balanced),0.3819444444444444
+5,2,2,Subject only (standard calibration),0.3472222222222222
+5,2,2,Subject only + re-centering,0.3645833333333333
+5,2,2,Transfer from 8 others + re-centering (balanced),0.3680555555555556
+5,2,3,Subject only (standard calibration),0.28125
+5,2,3,Subject only + re-centering,0.3298611111111111
+5,2,3,Transfer from 8 others + re-centering (balanced),0.3645833333333333
+5,2,4,Subject only (standard calibration),0.2881944444444444
+5,2,4,Subject only + re-centering,0.3125
+5,2,4,Transfer from 8 others + re-centering (balanced),0.3472222222222222
+5,5,0,Subject only (standard calibration),0.2986111111111111
+5,5,0,Subject only + re-centering,0.3055555555555556
+5,5,0,Transfer from 8 others + re-centering (balanced),0.3333333333333333
+5,5,1,Subject only (standard calibration),0.3506944444444444
+5,5,1,Subject only + re-centering,0.3611111111111111
+5,5,1,Transfer from 8 others + re-centering (balanced),0.3402777777777778
+5,5,2,Subject only (standard calibration),0.3506944444444444
+5,5,2,Subject only + re-centering,0.3680555555555556
+5,5,2,Transfer from 8 others + re-centering (balanced),0.3402777777777778
+5,5,3,Subject only (standard calibration),0.2708333333333333
+5,5,3,Subject only + re-centering,0.3263888888888889
+5,5,3,Transfer from 8 others + re-centering (balanced),0.3402777777777778
+5,5,4,Subject only (standard calibration),0.2534722222222222
+5,5,4,Subject only + re-centering,0.2777777777777778
+5,5,4,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+5,10,0,Subject only (standard calibration),0.3715277777777778
+5,10,0,Subject only + re-centering,0.3472222222222222
+5,10,0,Transfer from 8 others + re-centering (balanced),0.375
+5,10,1,Subject only (standard calibration),0.3194444444444444
+5,10,1,Subject only + re-centering,0.3472222222222222
+5,10,1,Transfer from 8 others + re-centering (balanced),0.3645833333333333
+5,10,2,Subject only (standard calibration),0.3506944444444444
+5,10,2,Subject only + re-centering,0.3854166666666667
+5,10,2,Transfer from 8 others + re-centering (balanced),0.3541666666666667
+5,10,3,Subject only (standard calibration),0.3506944444444444
+5,10,3,Subject only + re-centering,0.3298611111111111
+5,10,3,Transfer from 8 others + re-centering (balanced),0.3611111111111111
+5,10,4,Subject only (standard calibration),0.3680555555555556
+5,10,4,Subject only + re-centering,0.3819444444444444
+5,10,4,Transfer from 8 others + re-centering (balanced),0.3958333333333333
+5,20,0,Subject only (standard calibration),0.3645833333333333
+5,20,0,Subject only + re-centering,0.4097222222222222
+5,20,0,Transfer from 8 others + re-centering (balanced),0.3993055555555556
+5,20,1,Subject only (standard calibration),0.3402777777777778
+5,20,1,Subject only + re-centering,0.3923611111111111
+5,20,1,Transfer from 8 others + re-centering (balanced),0.3680555555555556
+5,20,2,Subject only (standard calibration),0.3541666666666667
+5,20,2,Subject only + re-centering,0.4201388888888889
+5,20,2,Transfer from 8 others + re-centering (balanced),0.3611111111111111
+5,20,3,Subject only (standard calibration),0.3680555555555556
+5,20,3,Subject only + re-centering,0.4097222222222222
+5,20,3,Transfer from 8 others + re-centering (balanced),0.3645833333333333
+5,20,4,Subject only (standard calibration),0.34375
+5,20,4,Subject only + re-centering,0.4027777777777778
+5,20,4,Transfer from 8 others + re-centering (balanced),0.40625
+5,36,0,Subject only (standard calibration),0.4027777777777778
+5,36,0,Subject only + re-centering,0.4097222222222222
+5,36,0,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+5,36,1,Subject only (standard calibration),0.3923611111111111
+5,36,1,Subject only + re-centering,0.4340277777777778
+5,36,1,Transfer from 8 others + re-centering (balanced),0.4166666666666667
+5,36,2,Subject only (standard calibration),0.4236111111111111
+5,36,2,Subject only + re-centering,0.40625
+5,36,2,Transfer from 8 others + re-centering (balanced),0.375
+5,36,3,Subject only (standard calibration),0.3958333333333333
+5,36,3,Subject only + re-centering,0.3958333333333333
+5,36,3,Transfer from 8 others + re-centering (balanced),0.40625
+5,36,4,Subject only (standard calibration),0.375
+5,36,4,Subject only + re-centering,0.4618055555555556
+5,36,4,Transfer from 8 others + re-centering (balanced),0.40625
+5,72,0,Subject only (standard calibration),0.4444444444444444
+5,72,0,Subject only + re-centering,0.4583333333333333
+5,72,0,Transfer from 8 others + re-centering (balanced),0.40625
+6,0,0,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+6,2,0,Subject only (standard calibration),0.22569444444444445
+6,2,0,Subject only + re-centering,0.22916666666666666
+6,2,0,Transfer from 8 others + re-centering (balanced),0.4097222222222222
+6,2,1,Subject only (standard calibration),0.2777777777777778
+6,2,1,Subject only + re-centering,0.2986111111111111
+6,2,1,Transfer from 8 others + re-centering (balanced),0.3715277777777778
+6,2,2,Subject only (standard calibration),0.24305555555555555
+6,2,2,Subject only + re-centering,0.2361111111111111
+6,2,2,Transfer from 8 others + re-centering (balanced),0.3506944444444444
+6,2,3,Subject only (standard calibration),0.3194444444444444
+6,2,3,Subject only + re-centering,0.3263888888888889
+6,2,3,Transfer from 8 others + re-centering (balanced),0.3784722222222222
+6,2,4,Subject only (standard calibration),0.2534722222222222
+6,2,4,Subject only + re-centering,0.25
+6,2,4,Transfer from 8 others + re-centering (balanced),0.4409722222222222
+6,5,0,Subject only (standard calibration),0.3263888888888889
+6,5,0,Subject only + re-centering,0.3506944444444444
+6,5,0,Transfer from 8 others + re-centering (balanced),0.3645833333333333
+6,5,1,Subject only (standard calibration),0.3402777777777778
+6,5,1,Subject only + re-centering,0.3576388888888889
+6,5,1,Transfer from 8 others + re-centering (balanced),0.4201388888888889
+6,5,2,Subject only (standard calibration),0.3576388888888889
+6,5,2,Subject only + re-centering,0.3888888888888889
+6,5,2,Transfer from 8 others + re-centering (balanced),0.4513888888888889
+6,5,3,Subject only (standard calibration),0.4131944444444444
+6,5,3,Subject only + re-centering,0.40625
+6,5,3,Transfer from 8 others + re-centering (balanced),0.4236111111111111
+6,5,4,Subject only (standard calibration),0.3680555555555556
+6,5,4,Subject only + re-centering,0.3993055555555556
+6,5,4,Transfer from 8 others + re-centering (balanced),0.4722222222222222
+6,10,0,Subject only (standard calibration),0.4097222222222222
+6,10,0,Subject only + re-centering,0.4166666666666667
+6,10,0,Transfer from 8 others + re-centering (balanced),0.4513888888888889
+6,10,1,Subject only (standard calibration),0.3854166666666667
+6,10,1,Subject only + re-centering,0.3576388888888889
+6,10,1,Transfer from 8 others + re-centering (balanced),0.3993055555555556
+6,10,2,Subject only (standard calibration),0.3541666666666667
+6,10,2,Subject only + re-centering,0.3298611111111111
+6,10,2,Transfer from 8 others + re-centering (balanced),0.375
+6,10,3,Subject only (standard calibration),0.3402777777777778
+6,10,3,Subject only + re-centering,0.3611111111111111
+6,10,3,Transfer from 8 others + re-centering (balanced),0.4409722222222222
+6,10,4,Subject only (standard calibration),0.3680555555555556
+6,10,4,Subject only + re-centering,0.3576388888888889
+6,10,4,Transfer from 8 others + re-centering (balanced),0.4340277777777778
+6,20,0,Subject only (standard calibration),0.40625
+6,20,0,Subject only + re-centering,0.4236111111111111
+6,20,0,Transfer from 8 others + re-centering (balanced),0.4583333333333333
+6,20,1,Subject only (standard calibration),0.4409722222222222
+6,20,1,Subject only + re-centering,0.4756944444444444
+6,20,1,Transfer from 8 others + re-centering (balanced),0.4652777777777778
+6,20,2,Subject only (standard calibration),0.4027777777777778
+6,20,2,Subject only + re-centering,0.4409722222222222
+6,20,2,Transfer from 8 others + re-centering (balanced),0.4409722222222222
+6,20,3,Subject only (standard calibration),0.4652777777777778
+6,20,3,Subject only + re-centering,0.4826388888888889
+6,20,3,Transfer from 8 others + re-centering (balanced),0.4548611111111111
+6,20,4,Subject only (standard calibration),0.4201388888888889
+6,20,4,Subject only + re-centering,0.4201388888888889
+6,20,4,Transfer from 8 others + re-centering (balanced),0.4201388888888889
+6,36,0,Subject only (standard calibration),0.4444444444444444
+6,36,0,Subject only + re-centering,0.4791666666666667
+6,36,0,Transfer from 8 others + re-centering (balanced),0.4826388888888889
+6,36,1,Subject only (standard calibration),0.4756944444444444
+6,36,1,Subject only + re-centering,0.4722222222222222
+6,36,1,Transfer from 8 others + re-centering (balanced),0.4548611111111111
+6,36,2,Subject only (standard calibration),0.4375
+6,36,2,Subject only + re-centering,0.4756944444444444
+6,36,2,Transfer from 8 others + re-centering (balanced),0.4652777777777778
+6,36,3,Subject only (standard calibration),0.4861111111111111
+6,36,3,Subject only + re-centering,0.4930555555555556
+6,36,3,Transfer from 8 others + re-centering (balanced),0.4375
+6,36,4,Subject only (standard calibration),0.4652777777777778
+6,36,4,Subject only + re-centering,0.4826388888888889
+6,36,4,Transfer from 8 others + re-centering (balanced),0.5173611111111112
+6,72,0,Subject only (standard calibration),0.4895833333333333
+6,72,0,Subject only + re-centering,0.5
+6,72,0,Transfer from 8 others + re-centering (balanced),0.4826388888888889
+7,0,0,Transfer from 8 others + re-centering (balanced),0.5
+7,2,0,Subject only (standard calibration),0.3819444444444444
+7,2,0,Subject only + re-centering,0.5416666666666666
+7,2,0,Transfer from 8 others + re-centering (balanced),0.5
+7,2,1,Subject only (standard calibration),0.4166666666666667
+7,2,1,Subject only + re-centering,0.5138888888888888
+7,2,1,Transfer from 8 others + re-centering (balanced),0.4930555555555556
+7,2,2,Subject only (standard calibration),0.5
+7,2,2,Subject only + re-centering,0.5138888888888888
+7,2,2,Transfer from 8 others + re-centering (balanced),0.5173611111111112
+7,2,3,Subject only (standard calibration),0.4270833333333333
+7,2,3,Subject only + re-centering,0.5902777777777778
+7,2,3,Transfer from 8 others + re-centering (balanced),0.5347222222222222
+7,2,4,Subject only (standard calibration),0.5486111111111112
+7,2,4,Subject only + re-centering,0.5416666666666666
+7,2,4,Transfer from 8 others + re-centering (balanced),0.5138888888888888
+7,5,0,Subject only (standard calibration),0.5590277777777778
+7,5,0,Subject only + re-centering,0.6319444444444444
+7,5,0,Transfer from 8 others + re-centering (balanced),0.5555555555555556
+7,5,1,Subject only (standard calibration),0.4409722222222222
+7,5,1,Subject only + re-centering,0.4965277777777778
+7,5,1,Transfer from 8 others + re-centering (balanced),0.5208333333333334
+7,5,2,Subject only (standard calibration),0.5243055555555556
+7,5,2,Subject only + re-centering,0.6319444444444444
+7,5,2,Transfer from 8 others + re-centering (balanced),0.5486111111111112
+7,5,3,Subject only (standard calibration),0.4548611111111111
+7,5,3,Subject only + re-centering,0.4791666666666667
+7,5,3,Transfer from 8 others + re-centering (balanced),0.5416666666666666
+7,5,4,Subject only (standard calibration),0.5520833333333334
+7,5,4,Subject only + re-centering,0.5729166666666666
+7,5,4,Transfer from 8 others + re-centering (balanced),0.5416666666666666
+7,10,0,Subject only (standard calibration),0.6215277777777778
+7,10,0,Subject only + re-centering,0.7048611111111112
+7,10,0,Transfer from 8 others + re-centering (balanced),0.5868055555555556
+7,10,1,Subject only (standard calibration),0.6041666666666666
+7,10,1,Subject only + re-centering,0.7118055555555556
+7,10,1,Transfer from 8 others + re-centering (balanced),0.5555555555555556
+7,10,2,Subject only (standard calibration),0.5208333333333334
+7,10,2,Subject only + re-centering,0.6388888888888888
+7,10,2,Transfer from 8 others + re-centering (balanced),0.5868055555555556
+7,10,3,Subject only (standard calibration),0.5104166666666666
+7,10,3,Subject only + re-centering,0.6215277777777778
+7,10,3,Transfer from 8 others + re-centering (balanced),0.5451388888888888
+7,10,4,Subject only (standard calibration),0.5763888888888888
+7,10,4,Subject only + re-centering,0.6909722222222222
+7,10,4,Transfer from 8 others + re-centering (balanced),0.5798611111111112
+7,20,0,Subject only (standard calibration),0.6458333333333334
+7,20,0,Subject only + re-centering,0.7291666666666666
+7,20,0,Transfer from 8 others + re-centering (balanced),0.5902777777777778
+7,20,1,Subject only (standard calibration),0.6944444444444444
+7,20,1,Subject only + re-centering,0.7708333333333334
+7,20,1,Transfer from 8 others + re-centering (balanced),0.625
+7,20,2,Subject only (standard calibration),0.6215277777777778
+7,20,2,Subject only + re-centering,0.7048611111111112
+7,20,2,Transfer from 8 others + re-centering (balanced),0.5902777777777778
+7,20,3,Subject only (standard calibration),0.6631944444444444
+7,20,3,Subject only + re-centering,0.71875
+7,20,3,Transfer from 8 others + re-centering (balanced),0.6111111111111112
+7,20,4,Subject only (standard calibration),0.6701388888888888
+7,20,4,Subject only + re-centering,0.7326388888888888
+7,20,4,Transfer from 8 others + re-centering (balanced),0.59375
+7,36,0,Subject only (standard calibration),0.7430555555555556
+7,36,0,Subject only + re-centering,0.7638888888888888
+7,36,0,Transfer from 8 others + re-centering (balanced),0.6493055555555556
+7,36,1,Subject only (standard calibration),0.7708333333333334
+7,36,1,Subject only + re-centering,0.8055555555555556
+7,36,1,Transfer from 8 others + re-centering (balanced),0.6736111111111112
+7,36,2,Subject only (standard calibration),0.7048611111111112
+7,36,2,Subject only + re-centering,0.78125
+7,36,2,Transfer from 8 others + re-centering (balanced),0.6736111111111112
+7,36,3,Subject only (standard calibration),0.6909722222222222
+7,36,3,Subject only + re-centering,0.7256944444444444
+7,36,3,Transfer from 8 others + re-centering (balanced),0.6180555555555556
+7,36,4,Subject only (standard calibration),0.7152777777777778
+7,36,4,Subject only + re-centering,0.7673611111111112
+7,36,4,Transfer from 8 others + re-centering (balanced),0.6319444444444444
+7,72,0,Subject only (standard calibration),0.7708333333333334
+7,72,0,Subject only + re-centering,0.8020833333333334
+7,72,0,Transfer from 8 others + re-centering (balanced),0.6770833333333334
+8,0,0,Transfer from 8 others + re-centering (balanced),0.6944444444444444
+8,2,0,Subject only (standard calibration),0.6180555555555556
+8,2,0,Subject only + re-centering,0.6388888888888888
+8,2,0,Transfer from 8 others + re-centering (balanced),0.7326388888888888
+8,2,1,Subject only (standard calibration),0.7083333333333334
+8,2,1,Subject only + re-centering,0.6875
+8,2,1,Transfer from 8 others + re-centering (balanced),0.7361111111111112
+8,2,2,Subject only (standard calibration),0.7083333333333334
+8,2,2,Subject only + re-centering,0.6805555555555556
+8,2,2,Transfer from 8 others + re-centering (balanced),0.7569444444444444
+8,2,3,Subject only (standard calibration),0.6701388888888888
+8,2,3,Subject only + re-centering,0.6770833333333334
+8,2,3,Transfer from 8 others + re-centering (balanced),0.7326388888888888
+8,2,4,Subject only (standard calibration),0.5243055555555556
+8,2,4,Subject only + re-centering,0.5381944444444444
+8,2,4,Transfer from 8 others + re-centering (balanced),0.7256944444444444
+8,5,0,Subject only (standard calibration),0.6284722222222222
+8,5,0,Subject only + re-centering,0.6944444444444444
+8,5,0,Transfer from 8 others + re-centering (balanced),0.7326388888888888
+8,5,1,Subject only (standard calibration),0.7152777777777778
+8,5,1,Subject only + re-centering,0.7118055555555556
+8,5,1,Transfer from 8 others + re-centering (balanced),0.71875
+8,5,2,Subject only (standard calibration),0.6388888888888888
+8,5,2,Subject only + re-centering,0.7048611111111112
+8,5,2,Transfer from 8 others + re-centering (balanced),0.7326388888888888
+8,5,3,Subject only (standard calibration),0.6736111111111112
+8,5,3,Subject only + re-centering,0.7256944444444444
+8,5,3,Transfer from 8 others + re-centering (balanced),0.7256944444444444
+8,5,4,Subject only (standard calibration),0.6180555555555556
+8,5,4,Subject only + re-centering,0.6319444444444444
+8,5,4,Transfer from 8 others + re-centering (balanced),0.7222222222222222
+8,10,0,Subject only (standard calibration),0.6527777777777778
+8,10,0,Subject only + re-centering,0.7222222222222222
+8,10,0,Transfer from 8 others + re-centering (balanced),0.7291666666666666
+8,10,1,Subject only (standard calibration),0.7743055555555556
+8,10,1,Subject only + re-centering,0.7638888888888888
+8,10,1,Transfer from 8 others + re-centering (balanced),0.7395833333333334
+8,10,2,Subject only (standard calibration),0.6979166666666666
+8,10,2,Subject only + re-centering,0.7013888888888888
+8,10,2,Transfer from 8 others + re-centering (balanced),0.7152777777777778
+8,10,3,Subject only (standard calibration),0.6840277777777778
+8,10,3,Subject only + re-centering,0.7534722222222222
+8,10,3,Transfer from 8 others + re-centering (balanced),0.7291666666666666
+8,10,4,Subject only (standard calibration),0.6875
+8,10,4,Subject only + re-centering,0.75
+8,10,4,Transfer from 8 others + re-centering (balanced),0.7569444444444444
+8,20,0,Subject only (standard calibration),0.7048611111111112
+8,20,0,Subject only + re-centering,0.7361111111111112
+8,20,0,Transfer from 8 others + re-centering (balanced),0.7673611111111112
+8,20,1,Subject only (standard calibration),0.7604166666666666
+8,20,1,Subject only + re-centering,0.7986111111111112
+8,20,1,Transfer from 8 others + re-centering (balanced),0.7465277777777778
+8,20,2,Subject only (standard calibration),0.7638888888888888
+8,20,2,Subject only + re-centering,0.7777777777777778
+8,20,2,Transfer from 8 others + re-centering (balanced),0.7465277777777778
+8,20,3,Subject only (standard calibration),0.6284722222222222
+8,20,3,Subject only + re-centering,0.7465277777777778
+8,20,3,Transfer from 8 others + re-centering (balanced),0.7534722222222222
+8,20,4,Subject only (standard calibration),0.7569444444444444
+8,20,4,Subject only + re-centering,0.7881944444444444
+8,20,4,Transfer from 8 others + re-centering (balanced),0.7708333333333334
+8,36,0,Subject only (standard calibration),0.7569444444444444
+8,36,0,Subject only + re-centering,0.78125
+8,36,0,Transfer from 8 others + re-centering (balanced),0.7743055555555556
+8,36,1,Subject only (standard calibration),0.78125
+8,36,1,Subject only + re-centering,0.8020833333333334
+8,36,1,Transfer from 8 others + re-centering (balanced),0.7743055555555556
+8,36,2,Subject only (standard calibration),0.7604166666666666
+8,36,2,Subject only + re-centering,0.8159722222222222
+8,36,2,Transfer from 8 others + re-centering (balanced),0.7777777777777778
+8,36,3,Subject only (standard calibration),0.8125
+8,36,3,Subject only + re-centering,0.8298611111111112
+8,36,3,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+8,36,4,Subject only (standard calibration),0.78125
+8,36,4,Subject only + re-centering,0.8020833333333334
+8,36,4,Transfer from 8 others + re-centering (balanced),0.7916666666666666
+8,72,0,Subject only (standard calibration),0.7673611111111112
+8,72,0,Subject only + re-centering,0.8333333333333334
+8,72,0,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+9,0,0,Transfer from 8 others + re-centering (balanced),0.6493055555555556
+9,2,0,Subject only (standard calibration),0.7256944444444444
+9,2,0,Subject only + re-centering,0.7152777777777778
+9,2,0,Transfer from 8 others + re-centering (balanced),0.7222222222222222
+9,2,1,Subject only (standard calibration),0.6388888888888888
+9,2,1,Subject only + re-centering,0.6215277777777778
+9,2,1,Transfer from 8 others + re-centering (balanced),0.7013888888888888
+9,2,2,Subject only (standard calibration),0.6041666666666666
+9,2,2,Subject only + re-centering,0.6145833333333334
+9,2,2,Transfer from 8 others + re-centering (balanced),0.6979166666666666
+9,2,3,Subject only (standard calibration),0.5520833333333334
+9,2,3,Subject only + re-centering,0.6493055555555556
+9,2,3,Transfer from 8 others + re-centering (balanced),0.7222222222222222
+9,2,4,Subject only (standard calibration),0.625
+9,2,4,Subject only + re-centering,0.6458333333333334
+9,2,4,Transfer from 8 others + re-centering (balanced),0.6944444444444444
+9,5,0,Subject only (standard calibration),0.6180555555555556
+9,5,0,Subject only + re-centering,0.6666666666666666
+9,5,0,Transfer from 8 others + re-centering (balanced),0.71875
+9,5,1,Subject only (standard calibration),0.6840277777777778
+9,5,1,Subject only + re-centering,0.7013888888888888
+9,5,1,Transfer from 8 others + re-centering (balanced),0.7083333333333334
+9,5,2,Subject only (standard calibration),0.6805555555555556
+9,5,2,Subject only + re-centering,0.7118055555555556
+9,5,2,Transfer from 8 others + re-centering (balanced),0.7395833333333334
+9,5,3,Subject only (standard calibration),0.6944444444444444
+9,5,3,Subject only + re-centering,0.6840277777777778
+9,5,3,Transfer from 8 others + re-centering (balanced),0.7291666666666666
+9,5,4,Subject only (standard calibration),0.7013888888888888
+9,5,4,Subject only + re-centering,0.7326388888888888
+9,5,4,Transfer from 8 others + re-centering (balanced),0.7152777777777778
+9,10,0,Subject only (standard calibration),0.7395833333333334
+9,10,0,Subject only + re-centering,0.7291666666666666
+9,10,0,Transfer from 8 others + re-centering (balanced),0.7534722222222222
+9,10,1,Subject only (standard calibration),0.7291666666666666
+9,10,1,Subject only + re-centering,0.7569444444444444
+9,10,1,Transfer from 8 others + re-centering (balanced),0.7465277777777778
+9,10,2,Subject only (standard calibration),0.6666666666666666
+9,10,2,Subject only + re-centering,0.6909722222222222
+9,10,2,Transfer from 8 others + re-centering (balanced),0.6909722222222222
+9,10,3,Subject only (standard calibration),0.7604166666666666
+9,10,3,Subject only + re-centering,0.7881944444444444
+9,10,3,Transfer from 8 others + re-centering (balanced),0.7743055555555556
+9,10,4,Subject only (standard calibration),0.7638888888888888
+9,10,4,Subject only + re-centering,0.7708333333333334
+9,10,4,Transfer from 8 others + re-centering (balanced),0.7395833333333334
+9,20,0,Subject only (standard calibration),0.8263888888888888
+9,20,0,Subject only + re-centering,0.8194444444444444
+9,20,0,Transfer from 8 others + re-centering (balanced),0.7638888888888888
+9,20,1,Subject only (standard calibration),0.7569444444444444
+9,20,1,Subject only + re-centering,0.7638888888888888
+9,20,1,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+9,20,2,Subject only (standard calibration),0.8090277777777778
+9,20,2,Subject only + re-centering,0.8090277777777778
+9,20,2,Transfer from 8 others + re-centering (balanced),0.7638888888888888
+9,20,3,Subject only (standard calibration),0.7986111111111112
+9,20,3,Subject only + re-centering,0.7951388888888888
+9,20,3,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+9,20,4,Subject only (standard calibration),0.7395833333333334
+9,20,4,Subject only + re-centering,0.7638888888888888
+9,20,4,Transfer from 8 others + re-centering (balanced),0.75
+9,36,0,Subject only (standard calibration),0.78125
+9,36,0,Subject only + re-centering,0.8020833333333334
+9,36,0,Transfer from 8 others + re-centering (balanced),0.7986111111111112
+9,36,1,Subject only (standard calibration),0.8402777777777778
+9,36,1,Subject only + re-centering,0.8333333333333334
+9,36,1,Transfer from 8 others + re-centering (balanced),0.8125
+9,36,2,Subject only (standard calibration),0.8020833333333334
+9,36,2,Subject only + re-centering,0.8090277777777778
+9,36,2,Transfer from 8 others + re-centering (balanced),0.8090277777777778
+9,36,3,Subject only (standard calibration),0.78125
+9,36,3,Subject only + re-centering,0.8055555555555556
+9,36,3,Transfer from 8 others + re-centering (balanced),0.7847222222222222
+9,36,4,Subject only (standard calibration),0.8472222222222222
+9,36,4,Subject only + re-centering,0.8402777777777778
+9,36,4,Transfer from 8 others + re-centering (balanced),0.7986111111111112
+9,72,0,Subject only (standard calibration),0.8020833333333334
+9,72,0,Subject only + re-centering,0.8368055555555556
+9,72,0,Transfer from 8 others + re-centering (balanced),0.8090277777777778

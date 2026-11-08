@@ -1,0 +1,27 @@
+  calibration A07 done
+  calibration A04 done
+  calibration A02 done
+  calibration A08 done
+  calibration A03 done
+  calibration A05 done
+  calibration A01 done
+  calibration A06 done
+  calibration A09 done
+Computing 8-30 Hz covariances ...
+LOSO naive vs re-centered ...
+                       accuracy         kappa       
+                           mean    std   mean    std
+classifier method                                   
+MDM        naive          0.346  0.117  0.128  0.156
+           re-centered    0.488  0.132  0.317  0.176
+TS+LR      naive          0.409  0.123  0.211  0.164
+           re-centered    0.534  0.167  0.378  0.223
+TS+LR re-centered > naive for 9/9 subjects
+Calibration curves ...
+k_per_class                                          0      2      5      10     20     36     72
+method                                                                                           
+Subject only (standard calibration)                 NaN  0.466  0.519  0.564  0.610  0.648  0.672
+Subject only + re-centering                         NaN  0.486  0.543  0.591  0.646  0.672  0.696
+Transfer from 8 others + re-centering (balanced)  0.534  0.556  0.568  0.584  0.610  0.630  0.644
+t-SNE ...
+Saved results/transfer.csv, calibration.csv, tsne.csv

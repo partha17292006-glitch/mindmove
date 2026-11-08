@@ -1,0 +1,2 @@
+# Only for the optional EEGNet comparison baseline (scripts/07_eegnet_baseline.py)
+torch>=2.8

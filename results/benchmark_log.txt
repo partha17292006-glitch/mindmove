@@ -1,0 +1,83 @@
+  A01 MDM        cross-session kappa=0.657
+  A01 CSP+LDA    cross-session kappa=0.699
+  A01 TS+LR      cross-session kappa=0.778
+  A01 TS+SVM     cross-session kappa=0.750
+  A02 CSP+LDA    cross-session kappa=0.245
+  A02 MDM        cross-session kappa=0.171
+  A02 TS+LR      cross-session kappa=0.296
+  A02 TS+SVM     cross-session kappa=0.227
+  A03 CSP+LDA    cross-session kappa=0.685
+  A03 MDM        cross-session kappa=0.602
+  A03 TS+LR      cross-session kappa=0.819
+  A03 TS+SVM     cross-session kappa=0.764
+  A01 FBTS+LR    cross-session kappa=0.722
+  A04 CSP+LDA    cross-session kappa=0.440
+  A02 FBTS+LR    cross-session kappa=0.287
+  A04 MDM        cross-session kappa=0.412
+  A04 TS+LR      cross-session kappa=0.454
+  A01 FBCSP+SVM  cross-session kappa=0.625
+  A04 TS+SVM     cross-session kappa=0.486
+  A05 CSP+LDA    cross-session kappa=0.144
+  A03 FBTS+LR    cross-session kappa=0.745
+  A02 FBCSP+SVM  cross-session kappa=0.310
+  A05 MDM        cross-session kappa=0.255
+  A05 TS+LR      cross-session kappa=0.296
+  A03 FBCSP+SVM  cross-session kappa=0.630
+  A05 TS+SVM     cross-session kappa=0.269
+  A06 CSP+LDA    cross-session kappa=0.282
+  A06 MDM        cross-session kappa=0.255
+  A06 TS+LR      cross-session kappa=0.319
+  A06 TS+SVM     cross-session kappa=0.370
+  A04 FBTS+LR    cross-session kappa=0.523
+  A07 CSP+LDA    cross-session kappa=0.486
+  A04 FBCSP+SVM  cross-session kappa=0.537
+  A07 MDM        cross-session kappa=0.333
+  A05 FBTS+LR    cross-session kappa=0.389
+  A07 TS+LR      cross-session kappa=0.630
+  A07 TS+SVM     cross-session kappa=0.667
+  A08 CSP+LDA    cross-session kappa=0.699
+  A05 FBCSP+SVM  cross-session kappa=0.398
+  A08 MDM        cross-session kappa=0.648
+  A06 FBTS+LR    cross-session kappa=0.315
+  A08 TS+LR      cross-session kappa=0.690
+  A08 TS+SVM     cross-session kappa=0.736
+  A06 FBCSP+SVM  cross-session kappa=0.273
+  A09 CSP+LDA    cross-session kappa=0.727
+  A09 MDM        cross-session kappa=0.556
+  A07 FBTS+LR    cross-session kappa=0.727
+  A09 TS+LR      cross-session kappa=0.736
+  A09 TS+SVM     cross-session kappa=0.764
+  A07 FBCSP+SVM  cross-session kappa=0.736
+  A08 FBTS+LR    cross-session kappa=0.727
+  A08 FBCSP+SVM  cross-session kappa=0.565
+  A09 FBTS+LR    cross-session kappa=0.699
+  A09 FBCSP+SVM  cross-session kappa=0.542
+Running 54 subject×pipeline tasks on 6 workers ...
+
+         protocol  pipeline  kappa_mean  kappa_std  accuracy_mean  accuracy_std
+   cross_session   CSP+LDA       0.490      0.226          0.617         0.169
+   cross_session FBCSP+SVM       0.513      0.155          0.635         0.116
+   cross_session   FBTS+LR       0.570      0.194          0.678         0.145
+   cross_session       MDM       0.432      0.188          0.574         0.141
+   cross_session     TS+LR       0.558      0.217          0.668         0.163
+   cross_session    TS+SVM       0.559      0.223          0.669         0.167
+within_session_E   CSP+LDA       0.579      0.252          0.684         0.189
+within_session_E FBCSP+SVM       0.580      0.217          0.685         0.163
+within_session_E   FBTS+LR       0.618      0.209          0.714         0.157
+within_session_E       MDM       0.478      0.219          0.608         0.164
+within_session_E     TS+LR       0.614      0.235          0.711         0.176
+within_session_E    TS+SVM       0.600      0.248          0.700         0.186
+within_session_T   CSP+LDA       0.531      0.251          0.648         0.188
+within_session_T FBCSP+SVM       0.582      0.201          0.686         0.150
+within_session_T   FBTS+LR       0.606      0.186          0.704         0.140
+within_session_T       MDM       0.458      0.214          0.594         0.161
+within_session_T     TS+LR       0.569      0.247          0.677         0.185
+within_session_T    TS+SVM       0.558      0.236          0.669         0.177
+
+      protocol metric       a         b  mean_a  mean_b  mean_diff  a_wins  n  statistic  p_value
+cross_session  kappa FBTS+LR FBCSP+SVM  0.5705  0.5129     0.0576       5  9       10.0   0.1523
+cross_session  kappa   TS+LR   CSP+LDA  0.5576  0.4897     0.0679       8  9        1.0   0.0078
+cross_session  kappa FBTS+LR     TS+LR  0.5705  0.5576     0.0129       4  9       19.0   0.7344
+cross_session  kappa   TS+LR FBCSP+SVM  0.5576  0.5129     0.0448       5  9       13.0   0.3008
+
+Saved results/benchmark.csv and figures/benchmark_*.png

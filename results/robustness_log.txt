@@ -1,0 +1,22 @@
+  A02 done
+  A04 done
+  A09 done
+  A06 done
+  A03 done
+  A01 done
+  A07 done
+  A05 done
+  A08 done
+level                    0.0    1.0    2.0    3.0    4.0    6.0    8.0
+pipeline condition                                                    
+CSP+LDA  broken        0.617  0.288  0.255  0.252  0.250  0.250  0.250
+         interpolated  0.617  0.603  0.591  0.577  0.566  0.540  0.503
+FBTS+LR  broken        0.678  0.468  0.349  0.295  0.273  0.260  0.253
+         interpolated  0.678  0.658  0.641  0.625  0.605  0.572  0.538
+TS+LR    broken        0.668  0.465  0.355  0.289  0.274  0.256  0.253
+         interpolated  0.668  0.644  0.617  0.600  0.572  0.527  0.469
+level      0.0    5.0    10.0   20.0   99.0
+pipeline                                   
+CSP+LDA   0.250  0.253  0.264  0.450  0.617
+FBTS+LR   0.255  0.287  0.370  0.588  0.678
+TS+LR     0.250  0.251  0.304  0.620  0.668
