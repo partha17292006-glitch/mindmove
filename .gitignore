@@ -25,3 +25,5 @@ paper/
 slides/
 overleaf/
 scripts/make_overleaf_zips.py
+# Local Claude Code tool settings
+.claude/
