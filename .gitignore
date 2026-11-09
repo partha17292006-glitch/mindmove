@@ -6,3 +6,22 @@ data/
 models/
 .env
 .streamlit/secrets.toml
+# LaTeX build files (PDFs are kept)
+*.aux
+*.log
+*.out
+*.nav
+*.snm
+*.toc
+*.vrb
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+overleaf/*.zip
+# Paper and slides are shared by mail, not in the repo
+paper/
+slides/
+overleaf/
+scripts/make_overleaf_zips.py

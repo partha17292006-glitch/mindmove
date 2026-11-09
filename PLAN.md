@@ -243,3 +243,19 @@ Cut order if behind: EEGNet → PhysioNet → t-SNE → robustness-noise (keep e
 | pyriemann.transfer API differs | implement re-centering manually (mean_riemann + invsqrtm, ~10 lines) |
 | Low accuracy for some subjects (A02, A05, A06 are known "hard" subjects) | expected — discuss "BCI illiteracy" honestly in report |
 | Time overrun | follow cut order in §8 |
+
+---
+
+## 12. Phase 2 — submission deliverables (approved 2026-11-09)
+1. **Source code + README** — already in repo; README gains a "Paper & slides" section.
+2. **Slides** — `slides/main.tex`, LaTeX Beamer (Madrid theme, pdfLaTeX, no extra packages), own `slides/figures/`.
+3. **Research paper** — `paper/main.tex`, IEEE conference format (`IEEEtran`, two-column, ~5 pages) + `paper/refs.bib` + `paper/figures/`.
+4. Compile both locally (MiKTeX pdflatex + bibtex), fix errors, and build Overleaf-uploadable zips (`overleaf/paper.zip`, `overleaf/slides.zip`, git-ignored).
+All numbers are taken from `results/*.csv`; nothing is invented. No PPT / Word files.
+
+## 13. Phase 3 — detailed slide deck for the TA walkthrough (2026-11-09)
+User request: the 18-slide deck is too thin; they will explain the whole project to the TA from the slides.
+- Rewrite `slides/main.tex` into a ~45-slide, self-explanatory deck. Every slide has the idea, the intuition and the actual numbers, with a "Takeaway" box where it helps.
+- Sections: Motivation → Neuroscience (EEG, rhythms, ERD) → Dataset & preprocessing → Feature engineering (filtering, covariance, OAS, SPD/manifold, Riemannian distance/mean, tangent space) → the 6 models (CSP, FBCSP+MIBIF, MDM, TS+LR/SVM, FBTS+LR) → evaluation (protocols, κ, Wilcoxon, no-leakage tuning) → results (summary, per-subject, stats, non-stationarity, confusion) → transfer (re-centering, LOSO, calibration) → robustness → interpretability → software & demo → limitations, conclusion → backup/Q&A slides.
+- Add figures already produced by the scripts (PSD, ERD time–frequency, raw trial, LOSO, band importance, noise robustness, within-session) to `slides/figures/`.
+- All numbers come from `results/*.csv`. Compile with pdflatex, fix overflow, rebuild `overleaf/slides.zip`, update README slide count.
